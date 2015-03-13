@@ -30,3 +30,16 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.dbb
+# =====================================
+# Art Assets
+# =====================================
+*.jpg
+*.jpeg
+*.bmp
+*.png
+*.ogg
+*.mp3
+*.wav
+*.fbx
+*.FBX
+*.max
